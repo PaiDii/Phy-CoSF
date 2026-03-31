@@ -1,6 +1,6 @@
 <img width="1782" height="1924" alt="1dun_inr" src="https://github.com/user-attachments/assets/2d20ee91-029c-4a87-a60d-e633c7f0c0c5" />
 
-### Figure 1: Qualitative comparison against the interpolation method on the ICVL scene nachal_0823-1144. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first two rows show continuous spectral reconstruction on training wavelengths, while the last two rows demonstrate spectral super-resolution on rendering wavelengths. Notably, as shown in the upper panel, our Phy-CoSF (red line) faithfully recovers these intricate, non-smooth spectral signatures, achieving a near-perfect correlation (>0.999) with the ground truth. Furthermore, the spatial visualizations in the lower panel confirm that Phy-CoSF reconstructs significantly sharper structural details (e.g., the bridge cables in the zoomed-in crops) compared to the severely blurred interpolation results.
+### Figure 1: Qualitative comparison against the interpolation method on the ICVL scene nachal_0823-1144. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first two rows show continuous spectral reconstruction on training wavelengths, while the last two rows demonstrate spectral super-resolution on rendering wavelengths.
 
 -----
 
@@ -12,7 +12,7 @@
 
 <img width="2412" height="1756" alt="2noise" src="https://github.com/user-attachments/assets/1fcf2aad-84c6-432d-9ef2-78836826a08e" />
 
-### Figure 1: Diffuse weights stay stable when the viewing angle changes for a fixed 3D point. Conversely, white and black weights vary significantly with view direction.
+### Figure 3: Qualitative comparison under increasing noise levels on the ICVL scene BGU_0522-1217. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first row shows continuous spectral reconstruction on training wavelengths, while the last row demonstrates spectral super-resolution on rendering wavelengths.
 
 -----
 
