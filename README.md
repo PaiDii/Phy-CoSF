@@ -30,12 +30,12 @@
 
 <img width="1400" height="1000" alt="4loss" src="https://github.com/user-attachments/assets/d2e919db-4a78-459e-a28b-02a990677e75" />
 
-### Figure 6: 
+### Figure 6: Convergence analysis of our Phy-CoSF over 200 epochs. The subplots display the training loss alongside testing metrics (PSNR, SSIM, and SAM). As observed, our method exhibits rapid and highly stable convergence without significant oscillations. The steady and monotonic improvement across all metrics highlights the robust learning capability and superior reconstruction performance of our continuous framework
 
 -----
 
 <img width="2343" height="2039" alt="4mask" src="https://github.com/user-attachments/assets/27ac4e89-90c6-4077-9b10-7cea3c12b222" />
 
-### Figure 7: 
+### Figure 7: Qualitative comparison using a noise-injected mask on the ICVL scene IDS_COLORCHECK_1020-1215-1. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first two rows show continuous spectral reconstruction on training wavelengths, while the last two rows demonstrate spectral super-resolution on rendering wavelengths.
 
 -----
