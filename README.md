@@ -18,24 +18,24 @@
 
 <img width="2199" height="1986" alt="3channel28" src="https://github.com/user-attachments/assets/0e7e68c8-1521-4030-8cdf-d293639fcd19" />
 
-### Figure 1: Diffuse weights stay stable when the viewing angle changes for a fixed 3D point. Conversely, white and black weights vary significantly with view direction.
+### Figure 4: Qualitative comparison with other methods on 28 channels for the ICVL scene IDS_COLORCHECK_1020-1215-1. Due to time constraints, we compare our approach with the methods of Qin et al. and Wu et al. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first two rows show continuous spectral reconstruction on training wavelengths, while the last two rows demonstrate spectral super-resolution on rendering wavelengths.
 
 -----
 
 <img width="2030" height="1178" alt="3spectral-profile" src="https://github.com/user-attachments/assets/ece67ce8-c279-4f06-97e7-43cab5222d02" />
 
-### Figure 1: Diffuse weights stay stable when the viewing angle changes for a fixed 3D point. Conversely, white and black weights vary significantly with view direction.
+### Figure 5: 
 
 -----
 
 <img width="1400" height="1000" alt="4loss" src="https://github.com/user-attachments/assets/d2e919db-4a78-459e-a28b-02a990677e75" />
 
-### Figure 1: Diffuse weights stay stable when the viewing angle changes for a fixed 3D point. Conversely, white and black weights vary significantly with view direction.
+### Figure 6: 
 
 -----
 
 <img width="2343" height="2039" alt="4mask" src="https://github.com/user-attachments/assets/27ac4e89-90c6-4077-9b10-7cea3c12b222" />
 
-### Figure 1: Diffuse weights stay stable when the viewing angle changes for a fixed 3D point. Conversely, white and black weights vary significantly with view direction.
+### Figure 7: 
 
 -----
