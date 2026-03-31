@@ -24,7 +24,7 @@
 
 <img width="2030" height="1178" alt="3spectral-profile" src="https://github.com/user-attachments/assets/ece67ce8-c279-4f06-97e7-43cab5222d02" />
 
-### Figure 5: 
+### Figure 5: Spectral profile and band distribution analysis for the ICVL scene hill_0325-1242. The main plot displays the spectral density curve for the red-boxed region, illustrating the training samples (green dots) and unseen rendering targets (red crosses) against the ground truth profile. The bottom panel visualizes the continuous distribution of these spectral bands. Additionally, the right legend details the specific wavelength values for both the training bands and the unseen rendering bands.
 
 -----
 
