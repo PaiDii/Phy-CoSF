@@ -1,4 +1,4 @@
-<p align="center"><img alt="1dun_inr" src="https://github.com/user-attachments/assets/2d20ee91-029c-4a87-a60d-e633c7f0c0c5" width="70%"/>
+<p align="center"><img alt="1dun_inr" src="https://github.com/user-attachments/assets/2d20ee91-029c-4a87-a60d-e633c7f0c0c5" width="50%"/>
 
 ### Fig. 1: Qualitative comparison against the interpolation method on the ICVL scene nachal_0823-1144. The upper panel displays the spectral density curves for the red-boxed region. The lower panel presents the reference RGB image, the 2D measurement, and a comparison of spectral slices: the first two rows show continuous spectral reconstruction on training wavelengths, while the last two rows demonstrate spectral super-resolution on rendering wavelengths.
 
@@ -16,7 +16,7 @@
 
 -----
 
-<p align="center"><img alt="1rgb" src="https://github.com/user-attachments/assets/25d79e1b-7b88-4a79-a18f-8044d45d5cec"  width="70%"/>
+<p align="center"><img alt="1rgb" src="https://github.com/user-attachments/assets/25d79e1b-7b88-4a79-a18f-8044d45d5cec"  width="50%"/>
 
 ### Fig. 2: Qualitative comparison against RGB super-resolution methods on simulated data. Top: RGB image, measurement, and spectral density curves (red box) for Scene 8, Bottom: Simulated discrete reconstruction results (2/28 channels).
 
